@@ -55,4 +55,3 @@ if prediction[0][0] > 0.5:
 else:
     print("Customer will likely stay")
 
-
